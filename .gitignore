@@ -1,11 +1,3 @@
-# specific project related files and folders
-WorkingDirs/
-Tools
-Fds*/
-DownloadRequests
-Fireframework.ComputeNote.Agent.*
-
-
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
@@ -53,5 +45,12 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# specific project related files and folders
+WorkingDirs/
+Tools
+Fds652/
+Fds653/
+DownloadRequests
 Fireframework.ComputeNode.Agent.exe
 Fireframework.ComputeNode.Agent.exe.config
