@@ -25,6 +25,8 @@ DT_RESTART=300.0/
 &DEVC ID='Smoke Detector02', PROP_ID='Cleary Ionization I1', XYZ=25.0,30.0,5.5/ 
 &DEVC ID='Smoke Detector03', PROP_ID='Cleary Ionization I1', XYZ=25.0,40.0,5.5/ 
 &DEVC ID='Smoke Detector04', PROP_ID='Cleary Ionization I1', XYZ=25.0,50.0,5.5/ 
+&DEVC XYZ=0.,0.,0., QUANTITY='MAXIMUM VELOCITY ERROR', ID='VEL_ERR' /    
+&DEVC XYZ=0.,0.,0., QUANTITY='PRESSURE ITERATIONS', ID='PRES_ITE' /
 &CTRL ID='Fire Detector Control', FUNCTION_TYPE='ALL', LATCH=.TRUE., 
 INPUT_ID='or'/ 
 &CTRL ID='or', FUNCTION_TYPE='ANY', LATCH=.FALSE., INPUT_ID='Smoke 
