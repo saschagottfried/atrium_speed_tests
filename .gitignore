@@ -1,3 +1,11 @@
+# specific project related files and folders
+WorkingDirs/
+Tools
+Fds*/
+DownloadRequests
+Fireframework.ComputeNote.Agent.*
+
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
