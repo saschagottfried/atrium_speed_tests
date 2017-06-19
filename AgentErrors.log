@@ -21880,3 +21880,4 @@ System.Net.Http.HttpRequestException: Fehler beim Senden der Anforderung. ---> S
    bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
    bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
    bei Fireframework.ComputeNode.Agent.AgentStatus.AgentStatusUpdater.<UpdateSimulationStatusAsync>d__12.MoveNext()
+2017-06-13 09:23:05.187 +02:00 [Error] Failed to initialize Azure Table Storage Logging
