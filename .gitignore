@@ -48,7 +48,8 @@ Temporary Items
 
 # specific project related files and folders
 WorkingDirs/
-Tools
+Tools/
+Fds640/
 Fds652/
 Fds653/
 DownloadRequests

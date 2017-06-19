@@ -1,0 +1,56 @@
+ Hello world: rank            0  of            4  running on 
+ CLIENTPC112.universe.hhp                                                       
+                                                 
+ Hello world: rank            1  of            4  running on 
+ CLIENTPC112.universe.hhp                                                       
+                                                 
+ Hello world: rank            2  of            4  running on 
+ CLIENTPC112.universe.hhp                                                       
+                                                 
+ Hello world: rank            3  of            4  running on 
+ CLIENTPC112.universe.hhp                                                       
+                                                 
+ Mesh      1 is assigned to MPI Process      0
+ Mesh      2 is assigned to MPI Process      1
+ Mesh      3 is assigned to MPI Process      2
+ Mesh      4 is assigned to MPI Process      3
+ Completed Initialization Step  1
+ Completed Initialization Step  2
+ Completed Initialization Step  3
+ Completed Initialization Step  4
+
+ Fire Dynamics Simulator
+
+ Current Date     : June 19, 2017  11:47:08
+ Version          : FDS 6.4.0
+ Revision         : Git-r10-48-g5996289
+ Revision Date    : Thu Apr 7 11:24:39 2016 -0400
+ Compilation Date : Thu 04/07/2016  11:28 AM
+
+ MPI Enabled; Number of MPI Processes:     4
+ OpenMP Enabled; Number of OpenMP Threads:   1
+
+ MPI version: 3.0
+ MPI library version: Intel(R) MPI Library 5.1.3 for Windows* OS
+
+
+ Job TITLE        : 
+ Job ID string    : atrium_with_fans
+
+ Time Step:      1, Simulation Time:      0.06 s
+ Time Step:      2, Simulation Time:      0.11 s
+ Time Step:      3, Simulation Time:      0.17 s
+ Time Step:      4, Simulation Time:      0.22 s
+ Time Step:      5, Simulation Time:      0.28 s
+ Time Step:      6, Simulation Time:      0.34 s
+ Time Step:      7, Simulation Time:      0.39 s
+ Time Step:      8, Simulation Time:      0.45 s
+ Time Step:      9, Simulation Time:      0.50 s
+ Time Step:     10, Simulation Time:      0.56 s
+ Time Step:     20, Simulation Time:      1.12 s
+ Time Step:     30, Simulation Time:      1.55 s
+ Time Step:     40, Simulation Time:      1.87 s
+ Time Step:     50, Simulation Time:      2.11 s
+ Time Step:     60, Simulation Time:      2.29 s
+ Time Step:     70, Simulation Time:      2.46 s
+ Time Step:     80, Simulation Time:      2.63 s
