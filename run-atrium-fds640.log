@@ -57,3 +57,58 @@
  Time Step:     90, Simulation Time:      2.79 s
  Time Step:    100, Simulation Time:      2.93 s
  Time Step:    200, Simulation Time:      4.43 s
+ Time Step:    300, Simulation Time:      6.00 s
+ Time Step:    400, Simulation Time:      7.62 s
+ Time Step:    500, Simulation Time:      9.20 s
+ Time Step:    600, Simulation Time:     10.68 s
+ Time Step:    700, Simulation Time:     12.34 s
+ Time Step:    800, Simulation Time:     13.96 s
+ Time Step:    900, Simulation Time:     15.45 s
+ Time Step:   1000, Simulation Time:     17.12 s
+ Time Step:   1100, Simulation Time:     18.61 s
+ Time Step:   1200, Simulation Time:     20.24 s
+ Time Step:   1300, Simulation Time:     21.83 s
+ Time Step:   1400, Simulation Time:     23.45 s
+ Time Step:   1500, Simulation Time:     25.57 s
+ Time Step:   1600, Simulation Time:     27.51 s
+ Time Step:   1700, Simulation Time:     29.33 s
+ Time Step:   1800, Simulation Time:     31.08 s
+ Time Step:   1900, Simulation Time:     33.23 s
+ Time Step:   2000, Simulation Time:     35.17 s
+ Time Step:   2100, Simulation Time:     37.23 s
+ Time Step:   2200, Simulation Time:     39.29 s
+ Time Step:   2300, Simulation Time:     41.29 s
+ Time Step:   2400, Simulation Time:     43.05 s
+ Time Step:   2500, Simulation Time:     44.98 s
+ Time Step:   2600, Simulation Time:     46.96 s
+ Time Step:   2700, Simulation Time:     48.92 s
+ Time Step:   2800, Simulation Time:     50.86 s
+ Time Step:   2900, Simulation Time:     52.68 s
+ Time Step:   3000, Simulation Time:     54.55 s
+ Time Step:   3100, Simulation Time:     56.38 s
+ Time Step:   3200, Simulation Time:     58.15 s
+ Time Step:   3300, Simulation Time:     59.96 s
+ Time Step:   3400, Simulation Time:     61.94 s
+ Time Step:   3500, Simulation Time:     63.81 s
+ Time Step:   3600, Simulation Time:     65.54 s
+ Time Step:   3700, Simulation Time:     67.28 s
+ Time Step:   3800, Simulation Time:     69.27 s
+ Time Step:   3900, Simulation Time:     71.26 s
+ Time Step:   4000, Simulation Time:     73.28 s
+ Time Step:   4100, Simulation Time:     75.45 s
+ Time Step:   4200, Simulation Time:     77.27 s
+ Time Step:   4300, Simulation Time:     79.00 s
+ Time Step:   4400, Simulation Time:     81.12 s
+ Time Step:   4500, Simulation Time:     83.09 s
+ Time Step:   4600, Simulation Time:     84.87 s
+ Time Step:   4700, Simulation Time:     86.70 s
+ Time Step:   4783, Simulation Time:     88.31 s
+ Time Step:   4784, Simulation Time:     88.33 s
+ Time Step:   4785, Simulation Time:     88.34 s
+ Time Step:   4786, Simulation Time:     88.36 s
+MPI process      0 has completed
+MPI process      1 has completed
+MPI process      2 has completed
+MPI process      3 has completed
+
+STOP: FDS stopped by user (CHID: atrium_with_fans)
